@@ -1,5 +1,5 @@
-#SISTEMAS DISTRIBUIDOS UDA
-##Alumno Juan Manuel Massotto Lasagno - Legajo: 113842
+# SISTEMAS DISTRIBUIDOS 2025 - UDA
+## Alumno Juan Manuel Massotto Lasagno - Legajo: 113842
 
 # Sistema de Foro con Chat - Backend
 
