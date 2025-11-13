@@ -1,3 +1,6 @@
+#SISTEMAS DISTRIBUIDOS UDA
+##Alumno Juan Manuel Massotto Lasagno - Legajo: 113842
+
 # Sistema de Foro con Chat - Backend
 
 Este es el backend de un sistema de foro con chat desarrollado con Spring Boot, que incluye autenticación con Auth0, gestión de temas y mensajes, y soporte para subida de imágenes.
